@@ -1,4 +1,4 @@
 # Emails aprovados (compradores da Cakto)
 # Um email por linha, append automatico via Make.com
 teste-curl@example.comteste-make-1778090338@viperpro.test
-teste-newline-1778090992@viperpro.test
+teste-make-1778089717@viperpro.test
