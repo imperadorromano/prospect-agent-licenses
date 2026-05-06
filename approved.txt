@@ -1,0 +1,2 @@
+# Emails aprovados (compradores da Cakto)
+# Um email por linha, append automatico via Make.com
